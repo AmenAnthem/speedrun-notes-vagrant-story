@@ -183,7 +183,7 @@ author: AmenAnthem
 - **Exit**: other exit
 - Ignore enemies
 ### The Last Stab of Hope
-- **Exit**: first exit counterclockwise
+- **Exit**: opposing site exit
 - Kill hellhound
 - **Puzzle**
   - Destroy push crate
@@ -368,8 +368,6 @@ author: AmenAnthem
 ### Rue Bouquet
 - **Exit**: first exit clockwise
 ### Glacialdra Kirk Ruins
-- **Exit**: first exit clockwise
-### Rue Sant D'alsa
 - **Exit**: first exit clockwise
 ### Villeport Way
 - Skip cut scene after going forward for a bit
@@ -562,7 +560,7 @@ author: AmenAnthem
 ### Work, Then Die
 - **Exit**: other exit
 ### Bandit's Hollow
-- **Exit**: first exit counterclockwise up top
+- **Exit**: unlocked exit up top
 - Kill imps, lizardman only if he gets in way
 - Climb to top, destroy push crate to continue climb
 ### Dining in Darkness
@@ -816,8 +814,8 @@ author: AmenAnthem
   - Push higher push crate right, up, left, then 3 times
   - Jump up
 ### The Chapel of Meschaunce
-- **Exit**: first exit counterclockwise
-- Kill Minotaur Lord
+- **Exit**: same exit
+- Kill **Minotaur Lord**
 - Open chest for progression item: *Silver Key*
 ### Those who Drink the Dark
 - **Exit**: first exit counterclockwise
@@ -887,7 +885,7 @@ author: AmenAnthem
 - **Exit**: first exit counterclockwise
 ### The Hall of Broken Vows
 - **Exit**: first exit counterclockwise
-- Kill Flame Dragon for progression item: *Calla Sigil*
+- Kill **Flame Dragon** for progression item: *Calla Sigil*
 ### Light and Dark Wage War
 - **Exit**: same exit
 - **Use item**: Faerie Wings
@@ -896,7 +894,13 @@ author: AmenAnthem
 ### The Hall of Broken Vows
 - **Exit**: first exit counterclockwise
 ### He Screams For Mercy
-- **Exit**: first exit clockwise
+- **Exit**: first exit counterclockwise
+- Jump across pits
+### Maelstrom of Malice
+- **Exit**: same exit
+- Kill all three enemies to unlock cloudstone and door
+### He Screams For Mercy
+- **Exit**: opposing site exit
 - Jump across pit
 ### The Acolyte's Weakness
 - **Exit**: down stairs
@@ -909,14 +913,8 @@ author: AmenAnthem
 ### The Acolyte's Weakness
 - **Exit**: other exit
 ### He Screams For Mercy
-- **Exit**: first exit clockwise
+- **Exit**: first exit counterclockwise
 - Jump across pits
-### Maelstrom of Malice
-- **Exit**: same exit
-- Kill all three enemies to unlock cloudstone and door
-### He Screams For Mercy
-- **Exit**: first exit clockwise
-- Jump across pit
 ### The Hall of Broken Vows
 - **Exit**: opposing site exit
 ### Abasement from Above
